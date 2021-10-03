@@ -27,10 +27,12 @@ Enter number for the distance to check
 Screenshots
 -
 
+- List of trusted domains
+
 <img width="1030" alt="Screen Shot 2021-10-03 at 9 27 18 AM" src="https://user-images.githubusercontent.com/2429142/135758582-073be4d6-22fe-46b4-bbe0-233d32cf1a39.png">
 
--
+- Checking a pontentially risky domain, appue.com
 <img width="1028" alt="Screen Shot 2021-10-03 at 9 27 59 AM" src="https://user-images.githubusercontent.com/2429142/135758616-22161cec-6066-44b4-b073-99a2ce095e97.png">
 
--
+- Not returning any domain that doesn't match the distance provided
 <img width="1028" alt="Screen Shot 2021-10-03 at 9 29 08 AM" src="https://user-images.githubusercontent.com/2429142/135758630-077a80bd-a6b7-4771-a2db-d56d0dcbac7f.png">
